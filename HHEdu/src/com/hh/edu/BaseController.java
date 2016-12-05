@@ -19,7 +19,7 @@ public class BaseController {
 	public String getUserName(){
 		return "adadfadsfasdfasdfmin";
 	}
-	public String t(){
-		return null;
+	public String getLoginUserPhone(){
+		return "15948384702";
 	}
 }
