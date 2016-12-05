@@ -15,7 +15,7 @@ public class BaseController {
 	 * @return
 	 */
 	public String getUserName(){
-		return "admin";
+		return "adadfadsfasdfasdfmin";
 	}
 	
 }
