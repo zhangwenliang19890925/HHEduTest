@@ -10,6 +10,16 @@ public class BaseController {
 	}
 	public void test(){
 		System.out.println("adfasdfasfasdf");
-	
+	}
+	/**
+	 * @desc getUserName
+	 * @brench 1.0.3
+	 * @return
+	 */
+	public String getUserName(){
+		return "adadfadsfasdfasdfmin";
+	}
+	public String t(){
+		return null;
 	}
 }
