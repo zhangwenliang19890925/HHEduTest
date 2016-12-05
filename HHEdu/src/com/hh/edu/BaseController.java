@@ -8,5 +8,8 @@ public class BaseController {
 	public void getSession(){
 		System.out.println("get Session");
 	}
+	public void test(){
+		System.out.println("adfasdfasfasdf");
 	
+	}
 }
