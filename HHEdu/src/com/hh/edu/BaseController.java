@@ -26,6 +26,6 @@ public class BaseController {
 		System.out.println("b1b1b1asdfasdfasdf");
 	}
 	public void method2(){
-		
+		System.out.println("123412341234");
 	}
 }
