@@ -6,7 +6,7 @@ public class BaseController {
 	 * @desc  getCurrentRequestSession
 	 */
 	public void getSession(){
-		
+		System.out.println("get Session");
 	}
 	
 }
