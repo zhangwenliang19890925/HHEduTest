@@ -9,4 +9,13 @@ public class BaseController {
 		System.out.println("get Session");
 	}
 	
+	/**
+	 * @desc getUserName
+	 * @brench 1.0.3
+	 * @return
+	 */
+	public String getUserName(){
+		return "admin";
+	}
+	
 }
