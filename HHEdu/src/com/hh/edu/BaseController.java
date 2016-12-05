@@ -28,4 +28,7 @@ public class BaseController {
 	public void method2(){
 		System.out.println("123412341234");
 	}
+	public void method3(){
+		
+	}
 }
