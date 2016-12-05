@@ -23,6 +23,6 @@ public class BaseController {
 		return "15948384702";
 	}
 	public void method1(){
-		System.out.println("b1b1b1");
+		System.out.println("b1b1b1asdfasdfasdf");
 	}
 }
