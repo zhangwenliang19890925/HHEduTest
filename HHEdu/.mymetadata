@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HHEdu"
+  id="myeclipse.1480942186379"
+  context-root="/HHEdu"
+  j2ee-spec="5.0"
+  archive="HHEdu.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
