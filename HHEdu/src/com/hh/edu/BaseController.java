@@ -17,5 +17,7 @@ public class BaseController {
 	public String getUserName(){
 		return "adadfadsfasdfasdfmin";
 	}
-	
+	public String t(){
+		return null;
+	}
 }
