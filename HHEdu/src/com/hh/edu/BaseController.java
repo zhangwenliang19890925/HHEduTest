@@ -22,4 +22,7 @@ public class BaseController {
 	public String getLoginUserPhone(){
 		return "15948384702";
 	}
+	public void method1(){
+		
+	}
 }
